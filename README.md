@@ -1,2 +1,2 @@
 # template-on-the-go
-kumpulan berbagai macam template
+go to mrrchmts.github.io/template-on-the-go
